@@ -15,12 +15,40 @@
 
 
      $y = 'John';
-     echo '<br>' . $y
+     echo '<br>' . $y . '<br>';
+
+
+     $t = 26;
+     echo var_dump($t). '<br> ';
+
+     $name = 'john' ;
+     echo var_dump($name) . '<br> ';
+
+     $pie = 3.14;
+     echo var_dump($pie) . '<br> ';
+
+     $cars = array ('volvo', 'bmw' , 'bentley');
+
+     
+
+     echo var_dump($cars) . '<br> ';
+
+     foreach($cars as $car);
+
+     echo $car . '<br> ';
+
+     echo $cars[0] . ' ' . $cars[1] . '<br> ' ;
+     
 
      ?>
     <!-- how to declare and use a variable  -->
 
     <!-- data types -->
+
+     
+
+
+       
      <!-- string -->
       <!-- number
       boolean
