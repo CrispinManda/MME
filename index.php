@@ -38,7 +38,24 @@
      echo $car . '<br> ';
 
      echo $cars[0] . ' ' . $cars[1] . '<br> ' ;
-     
+
+      $t = ('h'); 
+      
+        if ($t > "13"){
+            echo 'have a blessed day';
+        } else{
+         echo 'have a good night';
+        } elseif (condition) {
+            # code...
+        } else
+        
+      
+
+      
+
+
+      
+
 
      ?>
     <!-- how to declare and use a variable  -->
